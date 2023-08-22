@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-by-dmytro-komlyk.netlify.app/" target="_blank">Dmytro</a></h1>
 <h3 align="center">A passionate full-stack developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **Room Chat**
+<h3 align="left">👨‍💻 About me</h3>
+
+- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/fixlab-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iryna-Gry/fix-lab-project) and [![GitHub](https://img.shields.io/badge/roomchat-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytro-komlyk/room-chat)
 
 - 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-by-dmytro-komlyk.netlify.app/)
 
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-dmytrokomlyk-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-komlyk/)
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/dmytrokomlyk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-komlyk/)
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
