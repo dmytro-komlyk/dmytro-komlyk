@@ -3,7 +3,7 @@
 
 <h3 align="left">👨‍💻 About me</h3>
 
-- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/fixlab-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iryna-Gry/fix-lab-project) and [![GitHub](https://img.shields.io/badge/Boilerplate-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/dmytro-komlyk/room-chat](https://github.com/dmytro-komlyk/Next-Nest-js-CI-on-VPS-Boilerplate))
+- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/fixlab-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iryna-Gry/fix-lab-project) and [![GitHub](https://img.shields.io/badge/Boilerplate-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/dmytro-komlyk/room-chat](https://github.com/dmytro-komlyk/Next-Nest-js-CI-on-VPS-Boilerplate)
 
 - 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
