@@ -17,9 +17,7 @@
 
 <h3 align="left">🔥 Statistics</h3>
 <section markdown="1" style="display: flex;">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dmytro-komlyk&theme=vue-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dmytro-komlyk&theme=vue-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-komlyk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkomlyk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
