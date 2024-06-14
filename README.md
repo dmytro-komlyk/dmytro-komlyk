@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) and [![React Native](https://img.shields.io/badge/react_native-%230077B5.svg?style=for-the-badge&logo=reactnative&logoColor=white)](https://nestjs.com/)
 
-- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-by-dmytro-komlyk.netlify.app/)
-
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/dmytrokomlyk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-komlyk/)
 
 <h3 align="left">🛠️ Languages and Tools</h3>
