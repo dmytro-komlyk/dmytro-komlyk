@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/Boilerplate-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytro-komlyk/Next-Nest-js-CI-on-VPS-Boilerplate)
 
-- 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) and [![React Native](https://img.shields.io/badge/react_native-%230077B5.svg?style=for-the-badge&logo=reactnative&logoColor=white)](https://nestjs.com/)
+- 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/dmytrokomlyk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-komlyk/)
 
