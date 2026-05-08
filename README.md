@@ -1,82 +1,210 @@
-<h1 align="center">Hi 👋, I'm <a href="https://portfolio-by-dmytro-komlyk.netlify.app/" target="_blank">Dmytro</a></h1>
-<h3 align="center">A passionate full-stack developer from Ukraine</h3>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:b0d4ea,100:378add&height=130&section=header&text=Dmytro+Komlyk&fontColor=0d2d45&fontSize=36&fontAlignY=55&animation=fadeIn&desc=Fullstack+Developer+%E2%80%94+Monorepo+%2F+Infrastructure&descAlignY=78&descSize=14&descColor=185fa5" width="100%"/>
 
-<h3 align="left">👨‍💻 About me</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/Boilerplate-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytro-komlyk/Next-Nest-js-CI-on-VPS-Boilerplate)
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=185FA5&center=true&vCenter=true&width=620&lines=Building+type-safe+fullstack+products;NestJS+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+tRPC;Monorepo+architect+%7C+Self-hosted+AI+enthusiast;From+database+schema+to+mobile+app+%E2%80%94+end+to+end" alt="Typing SVG"/>
 
-- 🌱 I’m currently learning [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+<br/>
 
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/dmytrokomlyk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-komlyk/)
+<!-- Badges -->
+<a href="https://www.linkedin.com/in/dmytro-komlyk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/dmytro-komlyk/Omni-tRPC-Stack">
+  <img src="https://img.shields.io/badge/Featured_Project-Omni--tRPC--Stack-185fa5?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to_Work-available-22863a?style=flat-square&logo=checkmarx&logoColor=white"/>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<br/><br/>
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>   
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://trpc.io" target="_blank" rel="noreferrer">
-    <img src="https://trpc.io/img/logo.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-    <img src="https://www.prisma.io/docs/img/logo.svg" alt="mongodb" width="80" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://docs.github.com/ru/actions" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=dmytro-komlyk&style=flat-square&color=378add&labelColor=daeef9&label=Profile+Views"/>
 
-<h3 align="left">🔥 Statistics</h3>
+</div>
 
-<section markdown="1" style="display: flex;">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dmytro-komlyk&theme=vue-dark)](https://git.io/streak-stats)
+## 👤 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-komlyk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+```
+Name      →  Dmytro Komlyk
+Role      →  Fullstack Developer (Web + Mobile)
+Focus     →  Monorepo Architecture · Type-safe APIs · Self-hosted AI
+Location  →  Ukraine 🇺🇦
+Status    →  Building Omni-tRPC-Stack · Learning AI/LLM Integration
+```
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkomlyk&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-</section>
+I design and build **scalable, type-safe fullstack systems** — from database schema and NestJS API to Next.js web and React Native mobile — all within a single well-structured Turborepo monorepo.
+
+My current focus is integrating **self-hosted LLMs** (Ollama) into production-grade applications and shipping end-to-end products with zero compromise on developer experience.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**🏗 Monorepo & Infrastructure**
+
+![Turborepo](https://img.shields.io/badge/Turborepo-ef4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3e67b1?style=flat-square&logo=zod&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**🖥 Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22b573?style=flat-square&logo=minutemailer&logoColor=white)
+
+**🌐 Web Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-ff4154?style=flat-square&logo=reactquery&logoColor=white)
+![next-intl](https://img.shields.io/badge/next--intl-185fa5?style=flat-square&logo=i18next&logoColor=white)
+
+**📱 Mobile**
+
+![Expo](https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_0.81-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS_Builds-4630eb?style=flat-square&logo=expo&logoColor=white)
+![nativewind](https://img.shields.io/badge/nativewind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![react-i18next](https://img.shields.io/badge/react--i18next-26a69a?style=flat-square&logo=i18next&logoColor=white)
+
+**🤖 AI**
+
+![Ollama](https://img.shields.io/badge/Ollama_(self--hosted)-0d1117?style=flat-square&logo=ollama&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**🧪 Quality**
+
+![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white)
+![Codecov](https://img.shields.io/badge/Codecov-f01f7a?style=flat-square&logo=codecov&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky+Commitlint-21262d?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/dmytro-komlyk">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dmytro-komlyk&show_icons=true&theme=default&hide_border=true&bg_color=f0f8ff&title_color=185fa5&icon_color=378add&text_color=0d2d45&rank_icon=github&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/dmytro-komlyk">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dmytro-komlyk&layout=compact&theme=default&hide_border=true&bg_color=f0f8ff&title_color=185fa5&text_color=0d2d45&langs_count=8"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/dmytro-komlyk">
+  <img width="68%" src="https://streak-stats.demolab.com?user=dmytro-komlyk&theme=default&hide_border=true&background=f0f8ff&stroke=b0d4ea&ring=378add&fire=185fa5&currStreakLabel=185fa5&sideLabels=3a7fa8&dates=3a7fa8"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+[![Omni-tRPC-Stack](https://github-readme-stats-fast.vercel.app/api/pin/?username=dmytro-komlyk&repo=Omni-tRPC-Stack&theme=default&hide_border=true&bg_color=f0f8ff&title_color=185fa5&icon_color=378add&text_color=0d2d45)](https://github.com/dmytro-komlyk/Omni-tRPC-Stack)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|:------|:-------------|
+| 🏗 **Monorepo** | Turborepo · pnpm workspaces |
+| 🔗 **API** | tRPC · E2E type-safe · Zod validation |
+| 🖥 **Backend** | NestJS (Fastify) · Prisma · PostgreSQL · Redis |
+| 🌐 **Web** | Next.js 16 (App Router) · React 19 · Tailwind |
+| 📱 **Mobile** | Expo 54 · React Native 0.81 · EAS |
+| 🤖 **AI** | Ollama self-hosted · Vercel AI SDK · Redis history |
+| 🔐 **Auth** | NextAuth.js · JWT · OAuth (Google / Facebook / Apple) |
+| 🚢 **DevOps** | Docker Compose · GitHub Actions CI/CD · Nginx |
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+![AI/LLM](https://img.shields.io/badge/AI_&_LLM_Integration-actively_studying-185fa5?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+```
+  AI / LLM Integration Roadmap
+  ─────────────────────────────────────────────────────
+  ✅  Ollama — self-hosted LLM deployment
+  ✅  Vercel AI SDK — streaming responses in Next.js
+  ✅  Redis — AI conversation history persistence
+  🔄  RAG — Retrieval-Augmented Generation
+  🔄  Vector databases — pgvector / Qdrant
+  📌  Fine-tuning & prompt engineering patterns
+  📌  LLM-powered features in production mobile apps
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dmytro-komlyk&bg_color=f0f8ff&color=185fa5&line=378add&point=0d2d45&area=true&area_color=b0d4ea&hide_border=true&custom_title=Contribution+Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dmytro-komlyk/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dmytro_Komlyk-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/dmytro-komlyk">
+  <img src="https://img.shields.io/badge/GitHub-dmytro--komlyk-185fa5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"Type safety is not a constraint — it's a competitive advantage."*
+
+</div>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378add,50:b0d4ea,100:e8f4fd&height=90&section=footer" width="100%"/>
