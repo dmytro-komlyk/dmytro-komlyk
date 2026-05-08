@@ -19,11 +19,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open_to_Work-available-22863a?style=flat-square&logo=checkmarx&logoColor=white"/>
 
-<br/><br/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=dmytro-komlyk&style=flat-square&color=378add&labelColor=daeef9&label=Profile+Views"/>
-
 </div>
 
 ---
