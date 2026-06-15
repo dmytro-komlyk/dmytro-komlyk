@@ -27,7 +27,7 @@
 
 ```
 Name      →  Dmytro Komlyk
-Role      →  Fullstack Developer (Web + Mobile)
+Role      →  Fullstack Developer
 Focus     →  Monorepo Architecture · Type-safe APIs · Self-hosted AI
 Location  →  Ukraine 🇺🇦
 Status    →  Building Omni-tRPC-Stack · Learning AI/LLM Integration
